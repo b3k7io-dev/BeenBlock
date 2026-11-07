@@ -23,4 +23,9 @@
     <string name="status_active">Активна</string>
     <string name="status_inactive">Требует настройки</string>
     <string name="system_badge">Система</string>
+
+    <string name="setup_title">Нужна настройка</string>
+    <string name="setup_subtitle">Сначала выдайте обязательные разрешения. После этого откроется список приложений для блокировки.</string>
+    <string name="setup_footer">Статус обновится автоматически, когда вы вернётесь в BeenBlock из настроек.</string>
+    <string name="check_again">Проверить снова</string>
 </resources>
