@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BeenBlock</string>
+    <string name="accessibility_service_description">BeenBlock отслеживает запуск выбранных приложений и мгновенно возвращает вас на главный экран, чтобы помочь соблюдать фокус.</string>
+
+    <string name="search_apps">Поиск приложений</string>
+    <string name="blocked_count">Заблокировано: %1$d</string>
+    <string name="no_apps_found">Приложения не найдены</string>
+    <string name="loading_apps">Загрузка приложений…</string>
+
+    <string name="protection_title">Защита</string>
+    <string name="accessibility_title">Служба спец. возможностей</string>
+    <string name="accessibility_enabled">Включена — BeenBlock может блокировать запуск выбранных приложений.</string>
+    <string name="accessibility_disabled">Выключена. Включите BeenBlock в настройках спец. возможностей, чтобы блокировка работала в фоне.</string>
+    <string name="open_accessibility">Открыть настройки</string>
+
+    <string name="battery_title">Работа в фоне</string>
+    <string name="battery_ok">Оптимизация батареи отключена для BeenBlock.</string>
+    <string name="battery_limited">Система может ограничивать фон. Рекомендуется разрешить работу без ограничений.</string>
+    <string name="open_battery">Настроить</string>
+
+    <string name="how_it_works">Выберите не-системные приложения → включите службу → готово. BeenBlock работает в фоне, даже если приложение закрыто.</string>
+    <string name="status_active">Активна</string>
+    <string name="status_inactive">Требует настройки</string>
+    <string name="system_badge">Система</string>
+</resources>

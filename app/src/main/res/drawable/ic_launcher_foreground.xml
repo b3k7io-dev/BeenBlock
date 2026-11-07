@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Soft glow -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,22C54,22 32,30 32,30V52C32,67.5 41.6,81.8 54,86C66.4,81.8 76,67.5 76,52V30C76,30 54,22 54,22Z" />
+    <!-- Shield -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,27L36,33.5V51.5C36,64.7 43.7,76.9 54,80.5C64.3,76.9 72,64.7 72,51.5V33.5L54,27Z" />
+    <!-- Block bar -->
+    <path
+        android:fillColor="#4F8CFF"
+        android:pathData="M43,54.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+    <path
+        android:fillColor="#4F8CFF"
+        android:pathData="M45.2,52.3L62.8,52.3A2.2,2.2 0,0 1,65 54.5L65,54.5A2.2,2.2 0,0 1,62.8 56.7L45.2,56.7A2.2,2.2 0,0 1,43 54.5L43,54.5A2.2,2.2 0,0 1,45.2 52.3Z" />
+    <!-- App dots -->
+    <path android:fillColor="#8B7CFF" android:pathData="M48,44m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+    <path android:fillColor="#5ED7FF" android:pathData="M60,44m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+    <path android:fillColor="#FF6B8A" android:pathData="M54,64m-3.2,0a3.2,3.2 0,1 1,6.4 0a3.2,3.2 0,1 1,-6.4 0" />
+</vector>
